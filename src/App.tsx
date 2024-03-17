@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <p className={styles.test}>module test</p>
+      <p className={styles.test}>This paragraph is styled with CSS modules</p>
     </div>
   );
 }

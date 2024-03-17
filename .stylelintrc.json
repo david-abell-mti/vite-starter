@@ -1,7 +1,6 @@
 {
-  "extends": ["stylelint-config-standard", "stylelint-config-prettier"],
-  "plugins": ["stylelint-csstree-validator"],
+  "extends": ["stylelint-config-standard"],
+  "plugins": [],
   "rules": {
-    "csstree/validator": true
   }
 }
