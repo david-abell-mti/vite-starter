@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p className={styles.test}>This paragraph is styled with CSS modules</p>
+      <p className="text-green-800 font-bold text-3xl">This paragraph is styled with Tailwind</p>
     </div>
   );
 }
